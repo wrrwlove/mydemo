@@ -1,0 +1,97 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-size :14px;
+}
+#contain{
+	width: 100%;
+	height: auto;
+}
+#display{
+	width: 800px;
+	height: ayto;
+	border: 1px solid #999;
+	margin-right: auto;
+	margin-left: auto;
+	overflow: hidden;
+}
+#header{
+	height: 40px;
+	width: 100%;
+	background: #FFF;
+}
+#header a{
+	width: 30px;
+	height: 30px;
+	display: block;
+	float: right;
+	margin: 5px;
+}
+.list-off{
+	background: #FFF url(../image/list-off.png) no-repeat;
+}
+.card-on{
+	background: #FFF url(../image/card-on.png) no-repeat;
+}
+.list-on{
+	background: #FFF url(../image/list-on.png) no-repeat;
+}
+.card-off{
+	background: #FFF url(../image/card-off.png) no-repeat;
+}
+#main ul{
+	list-style: none;
+}
+#main ul .card{
+	display: block;
+	width: 254px;
+	height: 400px;
+	float: left;
+	border: 1px solid #999;
+	margin: 5px;
+}
+#main ul .card img{
+	display: block;
+	width: 250px;
+	height: 300px;
+	padding: 2px;
+	overflow: hidden;
+}
+#main ul .list{
+	display: block;
+	width: 250px;
+	height: 160px;
+	float: left;
+	border: 1px solid #999;
+	margin: 5px;
+}
+#main ul .list img{
+	display: block;
+	width: 100px;
+	height: 150px;
+	padding: 2px;
+	float: left;
+	overflow: hidden;
+}
+#main ul .card div{
+	width: 200px;
+	height: 70px;
+	padding: 10px;
+	line-height: 20px;
+}
+#main ul .list div{
+	width: 100px;
+	height: 130px;
+	padding: 10px;
+	line-height: 20px;
+	float: left;
+}
+a{
+	color: blue;
+}
+span{
+	margin: 7px;
+    position: relative;
+    float: right;
+    background: #999;
+}
