@@ -44,7 +44,7 @@
 
               return getComputedStyle(obj,false)[attr];}
 
-            }
+            }/*获取属性值，不受border的影响*/
              function startMove(obj,attr,iTarget){
                  if(obj.timer!=null){
                    clearInterval(obj.timer);
