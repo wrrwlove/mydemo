@@ -12,3 +12,5 @@ demo6 回到顶部
 
 
 demo7瀑布流。多张图片按序排列，滑动滑动条会加载(有jQuery和原生js两种方式)
+
+demo8网页导航。（jQuery和原生js）
