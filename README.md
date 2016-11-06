@@ -24,3 +24,6 @@ demo10用canvas实现移动圆圈
 
 
 demo11拖拽图片
+
+
+demo12 Canvas时钟
